@@ -12,7 +12,7 @@
   not for begginers. So I hope this helps somebody ;) </p>
 
   <ul>
-    <li><a href="https://github.com/visconttig/design-patterns/tree/master/FactoryDesignPattern">Factory Design Pattern [Java]</a></li>
+    <li><a href="https://github.com/visconttig/design-patterns/tree/master/DESIGN-PATTERNS/FactoryDesignPattern">Factory Design Pattern [Java]</a></li>
   </ul>
   </body>
 </html>
